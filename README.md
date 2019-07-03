@@ -56,7 +56,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(36).pdf" style="text-decoration:none;">PHP Reference: Beginner to Intermediate PHP5</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(37).pdf" style="text-decoration:none;">PHP Solutions: Dynamic Web Design Made Easy</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(37).pdf" style="text-decoration:none;">PHP 7 from Scratch: A Streamlined Approach to Modern PHP Mastery</a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(38).pdf" style="text-decoration:none;">Programming PHP</a></b></li>
  
@@ -67,10 +67,21 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(30).pdf" style="text-decoration:none;">Building Web Apps with WordPress</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(42).pdf" style="text-decoration:none;">PHP This! A Beginners Guide to Learning Object Oriented PHP</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(43).rar" style="text-decoration:none;">Mastering Drupal 8</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(44).pdf" style="text-decoration:none;">Core PHP Programming</a></b></li>
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(45).pdf" style="text-decoration:none;">Domain-Driven Design in PHP</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(46).pdf" style="text-decoration:none;">Easy PHP Websites with the Zend Framework</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(47).pdf" style="text-decoration:none;">Modernizing Legacy Applications In PHP</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(48).pdf" style="text-decoration:none;">Learning PHP Data Objects</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(49).pdf" style="text-decoration:none;">Node.js for PHP Developers</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(50).pdf" style="text-decoration:none;">PHP Arrays: Single, Multi-dimensional, Associative and Object Arrays in PHP 7</a></b></li>
 
 
 
