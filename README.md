@@ -81,9 +81,11 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(48).pdf" style="text-decoration:none;">Learning PHP Data Objects</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(49).pdf" style="text-decoration:none;">Node.js for PHP Developers</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(50).pdf" style="text-decoration:none;">PHP Arrays: Single, Multi-dimensional, Associative and Object Arrays in PHP 7</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(50).pdf" style="text-decoration:none;">Guide to HTML, JavaScript and PHP: For Scientists and Engineers</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(51).pdf" style="text-decoration:none;">The PHP Anthology</a></b></li>
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/PHP-Programming-Books/blob/master/php(52).pdf" style="text-decoration:none;">AJAX and PHP: Building Modern Web Applications</a></b></li>
 
 
 
